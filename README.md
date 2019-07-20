@@ -11,6 +11,7 @@ c_ct
   etcm
       single herb
       a group of herbs
+      single herburl
 ct
   uniprot
       single protein
