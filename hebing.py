@@ -44,4 +44,9 @@ def csv_txtsymmap(name,pathway):
             out.close()
         pass
     pass
-csv_txtsymmap('symmapc.txt','/Users/huanjiaming/0716temp/')
+#csv_txtsymmap('symmapc.txt','/Users/huanjiaming/0727temp/')
+
+
+#csv_txt('symmapc.txt','/Users/huanjiaming/0727temp/')
+
+csv_csv('symmapc.csv','/Users/huanjiaming/0727temp/')
